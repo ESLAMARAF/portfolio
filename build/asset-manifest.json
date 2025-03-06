@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f374a68.css",
+    "main.js": "/static/js/main.e7064468.js",
+    "static/media/screencapture-stirring-squirrel-95d7bb-netlify-app-2024-05-01-09_18_40 (1).png": "/static/media/screencapture-stirring-squirrel-95d7bb-netlify-app-2024-05-01-09_18_40 (1).8b92717a0532eb6923f0.png",
+    "static/media/246647660-8dbbba24-29c0-42cb-9867-9aa99357e37d.png": "/static/media/246647660-8dbbba24-29c0-42cb-9867-9aa99357e37d.bc7ce7a722ea6915ce9a.png",
+    "static/media/screencapture-localhost-3000-2023-11-05-11_15_58.png": "/static/media/screencapture-localhost-3000-2023-11-05-11_15_58.452538c14265d6276723.png",
+    "static/media/screencapture-e-commercy-surge-sh-categories-all-2023-09-04-11_26_07.png": "/static/media/screencapture-e-commercy-surge-sh-categories-all-2023-09-04-11_26_07.fb7143d96e7f135cbe5e.png",
+    "static/media/car-rental-full.webp": "/static/media/car-rental-full.c58b37da333d73238fdd.c58b37da333d73238fdd.webp",
+    "static/media/375267883___n.jpg": "/static/media/375267883_3590669177832375_6788996150400823000_n.ff0d28ec8e073396c2fc.jpg",
+    "static/media/Eslam Arafa.pdf": "/static/media/Eslam Arafa.e7d349e4d7d2b2138dcd.pdf",
+    "static/media/243061245___n.jpg": "/static/media/243061245_3070376593194972_2277526550449275377_n.3c69e3013245611eac5f.jpg",
+    "index.html": "/index.html",
+    "main.1f374a68.css.map": "/static/css/main.1f374a68.css.map",
+    "main.e7064468.js.map": "/static/js/main.e7064468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f374a68.css",
+    "static/js/main.e7064468.js"
+  ]
+}

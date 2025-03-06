@@ -1,7 +1,6 @@
 import work1 from './car-rental-full.c58b37da333d73238fdd.webp'
 import work2 from './screencapture-e-commercy-surge-sh-categories-all-2023-09-04-11_26_07.png'
-import work3 from './246647660-8dbbba24-29c0-42cb-9867-9aa99357e37d.png'
-import work4 from './screencapture-stirring-squirrel-95d7bb-netlify-app-2024-05-01-09_18_40 (1).png'
+import work3 from './screencapture-stirring-squirrel-95d7bb-netlify-app-2024-05-01-09_18_40 (1).png'
 import work5 from './screencapture-localhost-3000-2023-11-05-11_15_58.png'
 import ProBox from "./ProBox";
 import "./work.css"
@@ -44,7 +43,7 @@ function Projects() {
   
                 <ProBox
                   title="Gymate"
-                  img={work4}
+                  img={work3}
                   description="Gymate provides a space for people to improve their physical
                   fitness and overall health through regular exercise and physical
                   activity"
